@@ -1,0 +1,36 @@
+
+[
+  {
+    "season": 1,
+    "title": "Season 1",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Episode 1: Welcome",
+        "description": "Today’s episode is a special one. We’re diving into something raw, real, and unapologetically creative.\n\nWe’re proud to feature a powerful piece from Dandy The Poet — an artist who doesn’t just write lyrics, but reshapes emotions into experience.\n\nFrom his latest project Reshaped Realities, this track takes us through shifting perspectives, personal evolution, and the kind of honesty that sits with you long after the music fades.\n\nSo wherever you’re listening from — sit back, tune in, and let the words move you.\n\nThis is Dandy The Poet. This is Reshaped Realities.",
+        "videoUrl": "https://youtu.be/9lUGk4qhs1k?si=rBv_S1t2Kb-UiePL.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Episode 2: Real Talk",
+"description": "Today, we're excited to bring you something special — an exclusive sit-down between Dandy The Poet and TELLAVISION, now live on YouTube.\n\nIn this raw and honest conversation, Dandy opens up about what life really looks like behind the music. From the moments of silence between the studio sessions to the emotional weight that inspires every verse, this is a glimpse into the journey most never see.\n\nWhether you're a fan of the art or someone chasing your own creative path, this one will hit home.\n\nSo settle in, and let’s dive into the story behind the sound.",
+        "videoUrl": "https://youtu.be/-HIMdFphl2k?si=cw8Q3kkugY0SQFyK"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "title": "Season 2",
+    "episodes": [
+      {
+        "id": 3,
+        "title": "Episode 1: Level Up",
+"description": "Welcome to Season 2 of No Filter Needed — where we get raw, real, and a little uncomfortable.\n\nWe’re back, and we’re not holding anything back this season.\n\nNow… Episode 1 is a bit different.\n\nYou see, most people see the final shot — the clean edit, the curated post, the highlight reel.\n\nBut today, we’re talking about what really happens behind the lens — the pressure, the doubt, the moments nobody captures.\n\nAnd to kick things off... we’ve got a surprise guest who’s been living this reality every single day.\n\nStay with us. You won’t want to miss this.",
+        "audioUrl": "/assets/audio2.mp3"
+      }
+    ]
+  }
+]
+
+
+
