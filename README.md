@@ -46,4 +46,4 @@ podcast-app/
 
 ## 📄 License
 
-MIT © 2025 Dandy The Poet
+© 2025 Lupiwo Phillips
