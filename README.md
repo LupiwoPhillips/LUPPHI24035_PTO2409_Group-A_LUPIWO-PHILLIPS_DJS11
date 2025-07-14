@@ -7,11 +7,11 @@ Welcome to the official podcast app for **No Filter Needed**, a raw and honest p
 ## 📚 Seasons & Episodes
 
 ### 📦 Season 1
-- **Episode 1**: The Intro — Breaking the Mold
-- **Episode 2**: Creating Through Chaos
+- **Episode 1**: The Intro — Welcome
+- **Episode 2**: Real Talk
 
 ### 🔮 Season 2 (Coming Soon!)
-- **Episode 1**: Life Behind the Lens — A surprise look at what really happens when the cameras stop rolling.
+- **Episode 1**: Level Up — A surprise look at what really happens when the cameras stop rolling.
 
 ---
 
@@ -23,19 +23,6 @@ Welcome to the official podcast app for **No Filter Needed**, a raw and honest p
 - Organized by seasons
 - Responsive layout
 - Dynamic content from `episode.json`
-
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/podcast-app.git
-cd podcast-app
-npm install
-npm run dev
-```
-
-> Make sure you have Node.js and npm installed.
 
 ---
 
@@ -54,15 +41,8 @@ podcast-app/
 │   └── main.jsx
 ├── package.json
 └── README.md
+
 ```
-
----
-
-## 🤝 Contributing
-
-We welcome pull requests and discussions for future feature improvements. Feel free to fork and enhance!
-
----
 
 ## 📄 License
 
