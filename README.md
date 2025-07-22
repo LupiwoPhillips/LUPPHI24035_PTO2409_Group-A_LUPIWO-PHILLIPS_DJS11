@@ -1,4 +1,4 @@
-# 🎙️ React Podcast App
+# 🎙️ No Filter Needed Podcast
 
 Welcome to the **React Podcast App**, a modern web application built with **Vue.js** and **Vite** to showcase podcast episodes, seasons, and detailed episode views. The goal of this project is to offer a seamless and engaging user experience for podcast listeners.
 
