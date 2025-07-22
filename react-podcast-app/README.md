@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+# 🎧 No Filter Needed Podcast
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a podcast web application built with **React** (migrated from an initial Vue setup) using **Vite**. It allows users to browse, preview, and play podcast episodes categorized into seasons. The UI is styled with traditional CSS (no Tailwind).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Features
+
+- 🎙️ Home screen with podcast previews
+- 📚 Season page listing all episodes by season
+- 🔊 Built-in audio player per episode
+- 🔗 Episode detail pages (`/episode/:id`)
+- 🧭 Working navigation (navbar + footer)
+- 🎨 Custom CSS styling
+- 🌐 Deployed with Netlify
+
+---
